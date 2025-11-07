@@ -1,0 +1,9 @@
+requests
+speechrecognition
+pyaudio
+elevenlabs
+langchain
+langchain-community
+python-dotenv
+pydub
+ffmpeg-python
