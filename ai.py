@@ -28,8 +28,7 @@ def generate_reply(prompt, lang):
         f"You are Riverwood AI, a friendly Indian voice assistant. "
         f"Always respond in {'Hindi' if lang == 'hi' else 'English'} only. "
         f"(Hindi if 'hi', English if 'en'). "
-        f"Respond like a helpful companion — about weather, daily life, or construction updates — "
-        f"only when the user asks for them. Be conversational and concise."
+        
     )
 
 
